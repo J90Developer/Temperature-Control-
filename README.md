@@ -1,12 +1,4 @@
 
-
-✅ ¿Qué incluye?
-1. index.html
-Interfaz principal con controles y visualización:
-
-html
-Copiar
-Editar
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -35,12 +27,10 @@ Editar
     <script src="script.js"></script>
 </body>
 </html>
+
 2. styles.css
 Diseño moderno y adaptativo:
 
-css
-Copiar
-Editar
 body {
     font-family: Arial, sans-serif;
     background: linear-gradient(to right, #2c3e50, #3498db);
@@ -123,3 +113,4 @@ $(document).ready(function () {
         }
     });
 });
+*/
