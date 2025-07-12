@@ -1,5 +1,4 @@
-# Temperature-Control-
-Demostración para disminuir la temperatura. Proyecto Beta Web, JQuery
+
 
 ✅ ¿Qué incluye?
 1. index.html
@@ -124,7 +123,3 @@ $(document).ready(function () {
         }
     });
 });
-4. patente1.jpg y patente2.jpg
-Imágenes simbólicas de patentes para presentación visual.
-
-Si necesitas una versión con sensores reales, conexión a Arduino, backend con base de datos, o exportación de informes, también puedo preparártelo. ¿Te interesa algo de eso?
