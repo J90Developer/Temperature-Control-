@@ -1,8 +1,4 @@
 
-
-javascript
-Copiar
-Editar
 $(document).ready(function () {
     $('#tempSlider').on('input', function () {
         $('#temperature').text($(this).val());
